@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="706299de-e744-4096-b16d-d7712e3ed20b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asyncCodeTests/Users.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asyncCodeTests/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asyncCodeTests/asyncCodes.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asyncCodeTests/math.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asyncCodeTests/mock_jest_fn.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asyncCodeTests/mock_jest_mock.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asyncCodeTests/mock_jest_spyOn.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asyncCodeTests/mocks.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sum.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sum.test.js" afterDir="false" />
-    </list>
+    <list default="true" id="706299de-e744-4096-b16d-d7712e3ed20b" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -110,20 +95,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="sum.test.js" pinned="false" current-in-tab="false">
+          <file leaf-file-name="sum.test.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/sum.test.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="162">
                   <caret line="91" column="3" lean-forward="true" selection-start-line="91" selection-start-column="3" selection-end-line="91" selection-end-column="3" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/.gitignore">
-              <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <caret column="12" selection-start-column="12" selection-end-column="12" />
                 </state>
               </provider>
             </entry>
@@ -198,11 +174,10 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="930" />
-    <option name="y" value="-1052" />
-    <option name="width" value="1604" />
-    <option name="height" value="1013" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="831" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -263,24 +238,23 @@
       <option name="presentableId" value="Default" />
       <updated>1542031030483</updated>
       <workItem from="1542031031726" duration="14233000" />
-      <workItem from="1542204416524" duration="11652000" />
+      <workItem from="1542204416524" duration="12098000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25885000" />
+    <option name="totallyTimeSpent" value="26331000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="930" y="-1052" width="1604" height="1013" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="831" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.5165714" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.65223664" />
       <window_info anchor="right" id="Jenkins" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16301547" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18227665" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info id="Compare Directories" order="2" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -396,17 +370,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sum.test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="91" column="3" lean-forward="true" selection-start-line="91" selection-start-column="3" selection-end-line="91" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sum.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="91" column="3" lean-forward="true" selection-start-line="91" selection-start-column="3" selection-end-line="91" selection-end-column="3" />
         </state>
       </provider>
     </entry>
