@@ -1,3 +1,3 @@
-const HelloLambda = require('./HelloLambda');
-
-HelloLambda();
+exports.handler = (event, context, callback) => {
+  return 'Hello, world!';
+};
